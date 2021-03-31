@@ -391,7 +391,7 @@ GRAPHS
 
 1. Predators never win - Unless the growth rate exceeds the amount of energy consumed, the `Predators` could never reach a stable population as they consume all of their sources of energy
 2. Stable Prey Population - The population of the `Preys` could reach a point where it becomes stable - the population of `Preys` does not increase nor decrease after a certain point.
-3. Total Extinction - If the reproduction rate is too low, both agents will lose all their population and become extinct
+3. E
 
 ## THINGS TO TRY
 
